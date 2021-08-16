@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Austin McConnell.
 - 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning introductory coding.
 - 📫 How to reach me: austin.mcconnell76@gmail.com
 
 <!---
